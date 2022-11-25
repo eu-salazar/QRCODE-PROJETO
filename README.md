@@ -3,7 +3,7 @@
 
 ![preview](./preview.PNG)
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://eu-salazar.github.io/QRCODE-PROJETO/)
 
 ## Notas:
  
