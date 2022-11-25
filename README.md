@@ -3,13 +3,11 @@
 
 ![preview](./preview.PNG)
 
-Projeto desenvolvido para um desafio do Frontendmentor.
-
 [Clique aqui para acessar]()
 
 ## Notas:
  
- -Esse foi um projeto facil de ser feito apesar do inicio eu ter ficado meio confuso na questao de alguns espaçamentos e fontes.
+ - Esse foi um projeto facil de ser feito apesar do inicio eu ter ficado meio confuso na questao de alguns espaçamentos e fontes.
 ## Tecnologias:
   
  - HTML5
