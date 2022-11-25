@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Outifit';
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.conteiner{
+    max-width: 350px;
+    margin: 0 auto;   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.cartao{
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 18px;
+    text-align: center;
+    margin: 0 1rem;
+}
+
+img{
+    width: 100%;
+    border-radius: 13px;
+}
+
+.texto{
+    padding: 22px 10px;
+}
+
+.texto h2{
+    color: hsl(218, 44%, 22%);
+    padding-bottom: 12px;
+}
+
+.texto p{
+    color: hsl(212, 45%, 89%);
+}
